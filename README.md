@@ -1,4 +1,4 @@
-### Ola Visitantes 👋
+### Ola Visitantes! 👋
 ### Eu sou a Caroline Lima
 
 - 😄 Sejam bem-vindos
