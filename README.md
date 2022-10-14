@@ -1,9 +1,6 @@
 ### Ola Visitantes! 👋
 ### Eu sou a Caroline Lima
 
-- 😄 Sejam bem-vindos
-- 🔭 Gosto de FrontEnd
-
 ##
 <div align="center">
   <a href="https://github.com/rogergabrielsantos">
